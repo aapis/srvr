@@ -1,0 +1,8 @@
+[package]
+name = "rust-srvr"
+version = "0.1.0"
+authors = ["Ryan Priebe <rpriebe@me.com>"]
+
+[dependencies]
+chrono = "0.4"
+clap = { features = ["yaml"] }
